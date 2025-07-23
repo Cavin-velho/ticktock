@@ -16,3 +16,16 @@ Frameworks / Libraries Used
 Time Spent: 1-2 days
 
 Live Demo (Netlify) : https://ornate-youtiao-36d53d.netlify.app/
+
+Login Credentials: Use any of the below credentials to log in
+
+Gmail: admin@gmail.com
+Password : 1234
+
+Gmail : john@gmail.com
+Password : abcd 
+
+Gmail: jean@gmail.com
+Password : qwerty
+
+
