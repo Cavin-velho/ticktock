@@ -54,7 +54,7 @@ const WeeklyData = ({ setCurrentPage }) => {
                         onClick={(e) => {
                           e.preventDefault();
                           console.log("clicked");
-                          setCurrentPage("meh");
+                          setCurrentPage("schedule");
                           WeekManagement(data.id);
                         }}
                         className="font-medium text-blue-500 hover:underline"
