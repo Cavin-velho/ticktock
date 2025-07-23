@@ -25,7 +25,7 @@ Password : 1234
 Gmail : john@gmail.com
 Password : abcd 
 
-Gmail: jean@gmail.com
+Gmail: jane@gmail.com
 Password : qwerty
 
 
