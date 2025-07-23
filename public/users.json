@@ -1,0 +1,453 @@
+[
+  {
+    "user": "admin@gmail.com",
+    "password": "1234",
+    "weekData": [
+      {
+        "id": 1,
+        "week": 1,
+        "date": "1 - 5 January, 2024",
+        "status": "Missing",
+        "Actions": "View",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 1", "tasks": 0, "info": [] },
+          { "date": "Jan 2", "tasks": 0, "info": [] },
+          { "date": "Jan 3", "tasks": 0, "info": [] },
+          { "date": "Jan 4", "tasks": 0, "info": [] },
+          { "date": "Jan 5", "tasks": 0, "info": [] }
+        ]
+      },
+      {
+        "id": 2,
+        "week": 2,
+        "date": "8 - 12 January, 2024",
+        "status": "Incomplete",
+        "Actions": "Update",
+        "hours": "12",
+        "percentage": "30",
+        "days": [
+          {
+            "date": "Jan 8",
+            "tasks": 2,
+            "info": [
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              },
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              }
+            ]
+          },
+          { "date": "Jan 9", "tasks": 0, "info": [] },
+          { "date": "Jan 10", "tasks": 0, "info": [] },
+          { "date": "Jan 11", "tasks": 0, "info": [] },
+          {
+            "date": "Jan 12",
+            "tasks": 1,
+            "info": [
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "week": 3,
+        "date": "15 - 19 January, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 15", "tasks": 0, "info": [] },
+          { "date": "Jan 16", "tasks": 0, "info": [] },
+          { "date": "Jan 17", "tasks": 0, "info": [] },
+          { "date": "Jan 18", "tasks": 0, "info": [] },
+          { "date": "Jan 19", "tasks": 0, "info": [] }
+        ]
+      },
+      {
+        "id": 4,
+        "week": 4,
+        "date": "22 - 26 January, 2024",
+        "status": "Completed",
+        "Actions": "View",
+        "hours": "40",
+        "percentage": "100",
+        "days": [
+          {
+            "date": "Jan 22",
+            "tasks": 2,
+            "info": [
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              },
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              }
+            ]
+          },
+          {
+            "date": "Jan 23",
+            "tasks": 3,
+            "info": [
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              },
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              },
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              }
+            ]
+          },
+          {
+            "date": "Jan 24",
+            "tasks": 3,
+            "info": [
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              },
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              },
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              }
+            ]
+          },
+          {
+            "date": "Jan 25",
+            "tasks": 2,
+            "info": [
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              },
+              {
+                "Work": "Homepage Development",
+                "Project": "Project Name",
+                "hours": "4"
+              }
+            ]
+          },
+          { "date": "Jan 26", "tasks": 0, "info": [] }
+        ]
+      },
+      {
+        "id": 5,
+        "week": 5,
+        "date": "28 January - 1 February, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 28", "tasks": 0, "info": [] },
+          { "date": "Jan 29", "tasks": 0, "info": [] },
+          { "date": "Jan 30", "tasks": 0, "info": [] },
+          { "date": "Jan 31", "tasks": 0, "info": [] },
+          { "date": "Feb 1", "tasks": 0, "info": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "john@gmail.com",
+    "password": "abcd",
+    "weekData": [
+      {
+        "id": 1,
+        "week": 1,
+        "date": "1 - 5 January, 2024",
+        "status": "Completed",
+        "Actions": "View",
+        "hours": "40",
+        "percentage": "100",
+        "days": [
+          {
+            "date": "Jan 1",
+            "tasks": 2,
+            "info": [
+              { "Work": "Login Page", "Project": "Portal", "hours": "4" },
+              { "Work": "Header Design", "Project": "Portal", "hours": "4" }
+            ]
+          },
+          {
+            "date": "Jan 2",
+            "tasks": 2,
+            "info": [
+              { "Work": "Footer Design", "Project": "Portal", "hours": "4" },
+              { "Work": "Dashboard Layout", "Project": "Portal", "hours": "4" }
+            ]
+          },
+          {
+            "date": "Jan 3",
+            "tasks": 2,
+            "info": [
+              { "Work": "API Integration", "Project": "Portal", "hours": "4" },
+              { "Work": "API Integration", "Project": "Portal", "hours": "4" }
+            ]
+          },
+          {
+            "date": "Jan 4",
+            "tasks": 2,
+            "info": [
+              { "Work": "Testing", "Project": "Portal", "hours": "4" },
+              { "Work": "Debugging", "Project": "Portal", "hours": "4" }
+            ]
+          },
+          {
+            "date": "Jan 5",
+            "tasks": 2,
+            "info": [
+              { "Work": "Documentation", "Project": "Portal", "hours": "4" },
+              { "Work": "Final Review", "Project": "Portal", "hours": "4" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "week": 2,
+        "date": "8 - 12 January, 2024",
+        "status": "Incomplete",
+        "Actions": "Update",
+        "hours": "20",
+        "percentage": "50",
+        "days": [
+          {
+            "date": "Jan 8",
+            "tasks": 2,
+            "info": [
+              { "Work": "Landing Page", "Project": "Marketing", "hours": "4" },
+              { "Work": "Banner", "Project": "Marketing", "hours": "4" }
+            ]
+          },
+          {
+            "date": "Jan 9",
+            "tasks": 1,
+            "info": [
+              { "Work": "Hero Section", "Project": "Marketing", "hours": "4" }
+            ]
+          },
+          { "date": "Jan 10", "tasks": 0, "info": [] },
+          { "date": "Jan 11", "tasks": 0, "info": [] },
+          {
+            "date": "Jan 12",
+            "tasks": 2,
+            "info": [
+              {
+                "Work": "Call to Action",
+                "Project": "Marketing",
+                "hours": "4"
+              },
+              { "Work": "Mobile View", "Project": "Marketing", "hours": "4" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "week": 3,
+        "date": "15 - 19 January, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 15", "tasks": 0, "info": [] },
+          { "date": "Jan 16", "tasks": 0, "info": [] },
+          { "date": "Jan 17", "tasks": 0, "info": [] },
+          { "date": "Jan 18", "tasks": 0, "info": [] },
+          { "date": "Jan 19", "tasks": 0, "info": [] }
+        ]
+      },
+      {
+        "id": 4,
+        "week": 4,
+        "date": "22 - 26 January, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 22", "tasks": 0, "info": [] },
+          { "date": "Jan 23", "tasks": 0, "info": [] },
+          { "date": "Jan 24", "tasks": 0, "info": [] },
+          { "date": "Jan 25", "tasks": 0, "info": [] },
+          { "date": "Jan 26", "tasks": 0, "info": [] }
+        ]
+      },
+      {
+        "id": 5,
+        "week": 5,
+        "date": "28 January - 1 February, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 28", "tasks": 0, "info": [] },
+          { "date": "Jan 29", "tasks": 0, "info": [] },
+          { "date": "Jan 30", "tasks": 0, "info": [] },
+          { "date": "Jan 31", "tasks": 0, "info": [] },
+          { "date": "Feb 01", "tasks": 0, "info": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "jane@gmail.com",
+    "password": "qwerty",
+    "weekData": [
+      {
+        "id": 1,
+        "week": 1,
+        "date": "1 - 5 January, 2024",
+        "status": "Incomplete",
+        "Actions": "Update",
+        "hours": "16",
+        "percentage": "40",
+        "days": [
+          {
+            "date": "Jan 1",
+            "tasks": 1,
+            "info": [{ "Work": "Wireframe", "Project": "UI Kit", "hours": "4" }]
+          },
+          {
+            "date": "Jan 2",
+            "tasks": 2,
+            "info": [
+              { "Work": "Prototype", "Project": "UI Kit", "hours": "4" },
+              { "Work": "Review", "Project": "UI Kit", "hours": "4" }
+            ]
+          },
+          { "date": "Jan 3", "tasks": 0, "info": [] },
+          { "date": "Jan 4", "tasks": 0, "info": [] },
+          {
+            "date": "Jan 5",
+            "tasks": 1,
+            "info": [{ "Work": "Feedback", "Project": "UI Kit", "hours": "4" }]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "week": 2,
+        "date": "8 - 12 January, 2024",
+        "status": "Incomplete",
+        "Actions": "Update",
+        "hours": "20",
+        "percentage": "50",
+        "days": [
+          {
+            "date": "Jan 8",
+            "tasks": 2,
+            "info": [
+              { "Work": "Landing Page", "Project": "Marketing", "hours": "4" },
+              { "Work": "Banner", "Project": "Marketing", "hours": "4" }
+            ]
+          },
+          {
+            "date": "Jan 9",
+            "tasks": 1,
+            "info": [
+              { "Work": "Hero Section", "Project": "Marketing", "hours": "4" }
+            ]
+          },
+          { "date": "Jan 10", "tasks": 0, "info": [] },
+          { "date": "Jan 11", "tasks": 0, "info": [] },
+          {
+            "date": "Jan 12",
+            "tasks": 2,
+            "info": [
+              {
+                "Work": "Call to Action",
+                "Project": "Marketing",
+                "hours": "4"
+              },
+              { "Work": "Mobile View", "Project": "Marketing", "hours": "4" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "week": 3,
+        "date": "15 - 19 January, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 15", "tasks": 0, "info": [] },
+          { "date": "Jan 16", "tasks": 0, "info": [] },
+          { "date": "Jan 17", "tasks": 0, "info": [] },
+          { "date": "Jan 18", "tasks": 0, "info": [] },
+          { "date": "Jan 19", "tasks": 0, "info": [] }
+        ]
+      },
+      {
+        "id": 4,
+        "week": 4,
+        "date": "22 - 26 January, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 22", "tasks": 0, "info": [] },
+          { "date": "Jan 23", "tasks": 0, "info": [] },
+          { "date": "Jan 24", "tasks": 0, "info": [] },
+          { "date": "Jan 25", "tasks": 0, "info": [] },
+          { "date": "Jan 26", "tasks": 0, "info": [] }
+        ]
+      },
+      {
+        "id": 5,
+        "week": 5,
+        "date": "28 January - 1 February, 2024",
+        "status": "Missing",
+        "Actions": "Create",
+        "hours": "0",
+        "percentage": "0",
+        "days": [
+          { "date": "Jan 28", "tasks": 0, "info": [] },
+          { "date": "Jan 29", "tasks": 0, "info": [] },
+          { "date": "Jan 30", "tasks": 0, "info": [] },
+          { "date": "Jan 31", "tasks": 0, "info": [] },
+          { "date": "Feb 01", "tasks": 0, "info": [] }
+        ]
+      }
+    ]
+  }
+]
