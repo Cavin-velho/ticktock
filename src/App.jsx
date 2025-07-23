@@ -14,7 +14,7 @@ function App() {
         {currentPage === "Dashboard" && (
           <WeeklyData setCurrentPage={setCurrentPage} />
         )}
-        {currentPage === "meh" && <DashBoard />}
+        {currentPage === "schedule" && <DashBoard />}
       </UserData>
     </div>
   );
